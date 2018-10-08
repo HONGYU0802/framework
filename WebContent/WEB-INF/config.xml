@@ -1,0 +1,16 @@
+<monframwork>
+
+	<mapping>
+		<url>/actionLogin.fraise</url>
+		<action>actions.ActionLogin</action>
+	</mapping>
+	<mapping>
+		<url>/page1.fraise</url>
+		<action>actions.ActionPage1</action>
+	</mapping>
+	<mapping>
+		<url>/quitte.fraise</url>
+		<action>actions.ActionQuitter</action>
+	</mapping>
+	
+</monframwork>
